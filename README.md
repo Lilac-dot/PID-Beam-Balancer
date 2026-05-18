@@ -261,6 +261,4 @@ This project successfully demonstrated closed-loop stabilization of an inherentl
 
 ---
 
-⭐ *If you found this useful, consider starring the repo!*
-
 </div>
