@@ -4,12 +4,6 @@
 
 ### Real-Time Ball & Beam Stabilization using Arduino and PID Control
 
-![Platform](https://img.shields.io/badge/Platform-Arduino%20Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Language](https://img.shields.io/badge/Language-C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Control](https://img.shields.io/badge/Control-PID-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![Domain](https://img.shields.io/badge/Domain-Control%20Systems-blueviolet?style=for-the-badge)
-
 *A closed-loop control system that stabilizes a rolling ball on a beam using real-time PID feedback — built using Arduino, a servo motor, and an ultrasonic sensor.*
 
 </div>
